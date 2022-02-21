@@ -7,7 +7,7 @@ function module(){
             if(!tf)tf="ease";
             e.style.height=e.offsetHeight+"px";
             e.offsetHeight;
-            e.style.transitionProperty="height,margin,padding",
+            e.style.transitionProperty="height,margin,padding";
             e.style.transitionDuration=d+"ms";
             e.style.transitionTimingFunction=tf;
             e.style.overflow="hidden";
@@ -44,7 +44,7 @@ function module(){
             e.style.paddingBottom=0;
             e.style.marginBottom=0;
             e.offsetHeight;
-            e.style.transitionProperty="height,margin,padding",
+            e.style.transitionProperty="height,margin,padding";
             e.style.transitionDuration=d+"ms";
             e.style.transitionTimingFunction=tf;
             e.style.overflow="hidden";
